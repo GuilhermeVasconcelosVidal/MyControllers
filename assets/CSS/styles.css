@@ -1,0 +1,15 @@
+h1 {
+    
+    color:rgb(211, 97, 221);
+}
+
+h2 {
+    font-size: 25px;
+    color:#369;
+}
+
+.titulo-principal {
+    text-align: center;
+}
+
+body {background-color: rgb(145, 10, 199);}
